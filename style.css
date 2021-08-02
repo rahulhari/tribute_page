@@ -1,0 +1,40 @@
+body{
+    background-color: #00FA9A;
+    margin:0;
+}
+
+
+#main{
+   text-align: center;
+}
+
+img{
+    display: inline-flex;
+    width: 25%;
+    margin-left: 38%;
+}
+
+#caption{
+    font-size: 17px;
+            font-family: Gill Sans;
+            color: black;
+            margin-left: 20%;
+}
+
+
+.tribute-data{
+
+    background-color: rgb(46, 139, 87, 0.25);
+    box-shadow: 20px 20px 20px #98FB98;
+    font-family: Georgia;
+    padding: 40px 40px 40px 40px;
+    margin: 20px;
+    margin-top: 50px;
+}
+
+.title-APJ{
+    text-align: center;
+ }
+ footer{
+     text-align: center;
+ }
